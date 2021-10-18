@@ -5,7 +5,7 @@
 #### Home Page
 <p align="center"> 
   <kbd>
-    <a href="https://github.com/okoliechykwuka/greyhound/" target="_blank"><img src="website/grey.jpg">
+    <a href="https://github.com/okoliechykwuka/greyhound/tree/master" target="_blank"><img src="website/grey.jpg">
   </a>
   </kbd>
 </p>
