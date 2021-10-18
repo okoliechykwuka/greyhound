@@ -5,7 +5,8 @@
 #### Home Page
 <p align="center"> 
   <kbd>
-    <a href="https://github.com/okoliechykwuka/greyhound/" target="_blank"><img src="grey.jpg">
+    <a href="https://github.com/okoliechykwuka/greyhound/" target="_blank"><img src="grey_image.JPG">
+    <a href="https://github.com/okoliechykwuka/greyhound/" target="_blank"><img src="grey_image2.JPG">
   </a>
   </kbd>
 </p>
